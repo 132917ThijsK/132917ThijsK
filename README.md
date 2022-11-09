@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @132917ThijsK
+- 👋 Hi, I’m Thijs 
 - 👀 I’m interested in Video Game development
 - 🌱 I’m currently learning Html & Php
 - 📫 You may reach me through discord: " iMacJack#2102 "
